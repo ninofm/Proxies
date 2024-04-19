@@ -1,4 +1,13 @@
 [
+   {
+    "proxy": "https://94.131.107.45:3128",
+    "protocol": "https",
+    "ip": "94.131.107.45",
+    "port": 3128,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Netherlands"
+  },
   {
     "proxy": "https://172.18.0.1:53281",
     "protocol": "https",
