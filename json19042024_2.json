@@ -1,4 +1,38 @@
 [
+     {
+    "proxy": "https://103.255.145.62:84",
+    "protocol": "https",
+    "ip": "103.255.145.62",
+    "port": 84,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "India"
+  },  {
+    "proxy": "https://191.242.126.94:8080",
+    "protocol": "https",
+    "ip": "191.242.126.94",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Brazil"
+  },  {
+    "proxy": "https://191.240.153.165:8080",
+    "protocol": "https",
+    "ip": "191.240.153.165",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Brazil"
+  },
+    {
+    "proxy": "https://13.37.89.201:3128",
+    "protocol": "https",
+    "ip": "13.37.89.201",
+    "port": 3128,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "France"
+  },
    {
     "proxy": "https://94.131.107.45:3128",
     "protocol": "https",
