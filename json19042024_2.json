@@ -1,0 +1,119 @@
+[
+  {
+    "proxy": "https://202.12.80.14:83",
+    "protocol": "https",
+    "ip": "202.12.80.14",
+    "port": 83,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "India"
+  },
+  {
+    "proxy": "https://185.191.236.162:3128",
+    "protocol": "https",
+    "ip": "102.38.31.8",
+    "port": 3128,
+    "https": true,
+    "anonymity": "Switzerland",
+    "geolocation": ""
+  },
+  {
+    "proxy": "https://172.18.0.1:3128",
+    "protocol": "http",
+    "ip": "172.18.0.1",
+    "port": 3128,
+    "https": false,
+    "anonymity": "anonymous",
+    "geolocation": ""
+  },
+  {
+    "proxy": "https://109.201.14.82:8080",
+    "protocol": "https",
+    "ip": "109.201.14.82",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Iran"
+  },
+  {
+    "proxy": "https://197.232.47.122:8080",
+    "protocol": "https",
+    "ip": "197.232.47.122",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Kenya"
+  },
+  {
+    "proxy": "https://81.12.40.250:8080",
+    "protocol": "https",
+    "ip": "81.12.40.250",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Iran"
+  },
+  {
+    "proxy": "https://103.42.120.43:8080",
+    "protocol": "https",
+    "ip": "103.42.120.43",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Indonesia"
+  },
+  {
+    "proxy": "https://81.12.40.250:8080",
+    "protocol": "https",
+    "ip": "81.12.40.250",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Iran"
+  },
+  {
+    "proxy": "https://103.255.145.62:84",
+    "protocol": "https",
+    "ip": "103.255.145.62",
+    "port": 84,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "India"
+  },
+  {
+    "proxy": "https://202.154.18.133:8080",
+    "protocol": "https",
+    "ip": "202.154.18.133",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Indonesia"
+  },
+  {
+    "proxy": "https://185.103.26.78:3128",
+    "protocol": "https",
+    "ip": "185.103.26.78",
+    "port": 3128,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Russia"
+  },
+  {
+    "proxy": "https://179.108.220.184:8080",
+    "protocol": "https",
+    "ip": "179.108.220.184",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Brazil"
+  },
+  {
+    "proxy": "https://222.127.135.164:8082",
+    "protocol": "https",
+    "ip": "222.127.135.164",
+    "port": 8082,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Philippines"
+  }
+]
