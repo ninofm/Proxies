@@ -37,7 +37,7 @@
   },
   {
     "proxy": "https://172.18.0.1:3128",
-    "protocol": "http",
+    "protocol": "https",
     "ip": "172.18.0.1",
     "port": 3128,
     "https": false,
