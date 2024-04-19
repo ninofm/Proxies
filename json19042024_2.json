@@ -1,5 +1,32 @@
 [
   {
+    "proxy": "https://172.18.0.1:53281",
+    "protocol": "https",
+    "ip": "172.18.0.1",
+    "port": 53281,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "anonymous"
+  },
+  {
+    "proxy": "https://92.249.113.194:55443",
+    "protocol": "https",
+    "ip": "92.249.113.194",
+    "port": 55443,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "anonymous"
+  },
+  {
+    "proxy": "https://85.117.56.147:8080",
+    "protocol": "https",
+    "ip": "85.117.56.147",
+    "port": 8080,
+    "https": true,
+    "anonymity": "anonymous",
+    "geolocation": "Giorgia"
+  },
+  {
     "proxy": "https://91.121.106.55:44",
     "protocol": "https",
     "ip": "91.121.106.55",
