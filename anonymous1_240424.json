@@ -40,14 +40,6 @@
     "geolocation": "Singapore"
   },
   {
-    "proxy": "https://111.90.150.109:1080",
-    "protocol": "SOCKS",
-    "ip": "111.90.150.109",
-    "port": 1080,
-    "anonymity": "anonymous",
-    "geolocation": "unknown"
-  },
-  {
     "proxy": "https://194.163.137.106:9050",
     "protocol": "SOCKS",
     "ip": "194.163.137.106",
