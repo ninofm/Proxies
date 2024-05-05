@@ -46,13 +46,5 @@
     "port": 9050,
     "anonymity": "anonymous",
     "geolocation": "Germany"
-  },
-  {
-    "proxy": "https://92.204.134.38:42668",
-    "protocol": "SOCKS",
-    "ip": "92.204.134.38",
-    "port": 42668,
-    "anonymity": "anonymous",
-    "geolocation": ""
   }
 ]
