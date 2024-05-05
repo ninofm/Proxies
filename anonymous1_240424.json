@@ -1,452 +1,66 @@
 [
   {
-    "proxy": "https://191.240.153.165:80",
-    "protocol": "https",
-    "ip": "191.240.153.165",
-    "port": 80,
-    "https": true,
+    "proxy": "https://161.97.165.57:6184",
+    "protocol": "SOCKS",
+    "ip": "161.97.165.57",
+    "port": 6184,
     "anonymity": "anonymous",
-    "geolocation": "Brazil"
+    "geolocation": "Germany"
   },
   {
-    "proxy": "https://35.185.196.38:3128",
-    "protocol": "https",
-    "ip": "35.185.196.38",
-    "port": 3128,
-    "https": true,
+    "proxy": "https://185.82.218.52:1080",
+    "protocol": "SOCKS",
+    "ip": "185.82.218.52",
+    "port": 1080,
     "anonymity": "anonymous",
-    "geolocation": "USA"
+    "geolocation": "Bulgaria"
   },
   {
-    "proxy": "https://20.206.106.192:8123",
-    "protocol": "https",
-    "ip": "20.206.106.192",
-    "port": 8123,
-    "https": true,
+    "proxy": "https://111.90.150.109:1080",
+    "protocol": "SOCKS",
+    "ip": "111.90.150.109",
+    "port": 1080,
     "anonymity": "anonymous",
-    "geolocation": "Brazil"
+    "geolocation": "Malaysia"
   },
   {
-    "proxy": "https://20.206.106.192:80",
-    "protocol": "https",
-    "ip": "20.206.106.192",
-    "port": 80,
-    "https": true,
+    "proxy": "https://43.131.246.9:15673",
+    "protocol": "SOCKS",
+    "ip": "43.131.246.9",
+    "port": 15673,
     "anonymity": "anonymous",
-    "geolocation": "Brazil"
+    "geolocation": "South Korea"
   },
   {
-    "proxy": "https://20.205.61.143:8123",
-    "protocol": "https",
-    "ip": "20.205.61.143",
-    "port": 8123,
-    "https": true,
+    "proxy": "https://184.168.121.153:37278",
+    "protocol": "SOCKS",
+    "ip": "184.168.121.153",
+    "port": 37278,
     "anonymity": "anonymous",
-    "geolocation": "Hong Kong"
+    "geolocation": "Singapore"
   },
   {
-    "proxy": "https://20.24.43.214:8123",
-    "protocol": "https",
-    "ip": "20.24.43.214",
-    "port": 8123,
-    "https": true,
+    "proxy": "https://111.90.150.109:1080",
+    "protocol": "SOCKS",
+    "ip": "111.90.150.109",
+    "port": 1080,
     "anonymity": "anonymous",
-    "geolocation": "Singapure"
+    "geolocation": "unknown"
   },
   {
-    "proxy": "https://20.210.113.32:80",
-    "protocol": "https",
-    "ip": "20.210.113.32",
-    "port": 80,
-    "https": true,
+    "proxy": "https://194.163.137.106:9050",
+    "protocol": "SOCKS",
+    "ip": "194.163.137.106",
+    "port": 9050,
     "anonymity": "anonymous",
-    "geolocation": "Japan"
+    "geolocation": "Germany"
   },
   {
-    "proxy": "https://20.210.113.32:8123",
-    "protocol": "https",
-    "ip": "20.210.113.32",
-    "port": 8123,
-    "https": true,
+    "proxy": "https://92.204.134.38:42668",
+    "protocol": "SOCKS",
+    "ip": "92.204.134.38",
+    "port": 42668,
     "anonymity": "anonymous",
-    "geolocation": "Japan"
-  },
-  {
-    "proxy": "https://20.24.43.214:80",
-    "protocol": "https",
-    "ip": "20.24.43.214",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
-  },
-  {
-    "proxy": "https://20.205.61.143:80",
-    "protocol": "https",
-    "ip": "20.205.61.143",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Hong Kong"
-  },
-  {
-    "proxy": "https://35.185.196.38:3128",
-    "protocol": "https",
-    "ip": "35.185.196.38",
-    "port": 3128,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "USA"
-  },
-  {
-    "proxy": "https://20.24.43.214:80",
-    "protocol": "https",
-    "ip": "20.24.43.214",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
-  },
-  {
-    "proxy": "https://89.43.31.134:3128",
-    "protocol": "https",
-    "ip": "89.43.31.134",
-    "port": 3128,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Turkey"
-  },
-  {
-    "proxy": "https://20.24.43.214:8123",
-    "protocol": "https",
-    "ip": "20.24.43.214",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Singaure"
-  },
-  {
-    "proxy": "https://35.185.196.38:3128",
-    "protocol": "https",
-    "ip": "35.185.196.38",
-    "port": 3128,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "USA"
-  },
-  {
-    "proxy": "https://52.222.28.135:443",
-    "protocol": "https",
-    "ip": "52.222.28.135",
-    "port": 443,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "USA"
-  },
-  {
-    "proxy": "https://20.206.106.192:80",
-    "protocol": "https",
-    "ip": "20.206.106.192",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Brazil"
-  },
-  {
-    "proxy": "https://20.210.113.32:80",
-    "protocol": "https",
-    "ip": "20.210.113.32",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Japan"
-  },
-  {
-    "proxy": "https://20.210.113.32:8123",
-    "protocol": "https",
-    "ip": "20.210.113.32",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Japan"
-  },
-  {
-    "proxy": "https://20.206.106.192:8123",
-    "protocol": "https",
-    "ip": "20.206.106.192",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Brazil"
-  },
-  {
-    "proxy": "https://20.205.61.143:80",
-    "protocol": "https",
-    "ip": "20.205.61.143",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Hong Kong"
-  },
-  {
-    "proxy": "https://20.205.61.143:8123",
-    "protocol": "https",
-    "ip": "20.205.61.143",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Hong Kong"
-  },
-  {
-    "proxy": "https://3.10.93.50:3128",
-    "protocol": "https",
-    "ip": "3.10.93.50",
-    "port": 3128,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "UK"
-  },
-  {
-    "proxy": "https://20.24.43.214:80",
-    "protocol": "https",
-    "ip": "20.24.43.214",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
-  },
-  {
-    "proxy": "https://20.24.43.214:8123",
-    "protocol": "https",
-    "ip": "20.24.43.214",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
-  },
-  {
-    "proxy": "https://35.185.196.38:3128",
-    "protocol": "https",
-    "ip": "35.185.196.38",
-    "port": 3128,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "USA"
-  },
-  {
-    "proxy": "https://20.206.106.192:80",
-    "protocol": "https",
-    "ip": "20.206.106.192",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Brazil"
-  },
-  {
-    "proxy": "https://172.81.61.125:3128",
-    "protocol": "https",
-    "ip": "172.81.61.125",
-    "port": 3128,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "USA"
-  },
-  {
-    "proxy": "https://89.187.162.72:8443",
-    "protocol": "https",
-    "ip": "89.187.162.72",
-    "port": 8443,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
-  },
-  {
-    "proxy": "https://20.111.54.16:80",
-    "protocol": "https",
-    "ip": "20.111.54.16",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "France"
-  },
-  {
-    "proxy": "https://5.135.188.62:9999",
-    "protocol": "https",
-    "ip": "5.135.188.62",
-    "port": 9999,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "France"
-  },
-  {
-    "proxy": "https://37.19.220.180:8443",
-    "protocol": "https",
-    "ip": "37.19.220.180",
-    "port": 8443,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "USA"
-  },
-  {
-    "proxy": "https://89.187.162.70:8443",
-    "protocol": "https",
-    "ip": "89.187.162.70",
-    "port": 8443,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
-  },
-  {
-    "proxy": "https://69.79.101.97:9999",
-    "protocol": "https",
-    "ip": "69.79.101.97",
-    "port": 9999,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "USA"
-  },
-  {
-    "proxy": "https://185.200.119.90:8443",
-    "protocol": "https",
-    "ip": "185.200.119.90",
-    "port": 8443,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Netherlands"
-  },
-  {
-    "proxy": "https://218.6.120.111:7777",
-    "protocol": "https",
-    "ip": "218.6.120.111",
-    "port": 7777,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "India"
-  },
-  {
-    "proxy": "https://35.185.196.38:3128",
-    "protocol": "https",
-    "ip": "35.185.196.38",
-    "port": 3128,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "USA"
-  },
-  {
-    "proxy": "https://37.19.220.181:8443",
-    "protocol": "https",
-    "ip": "137.19.220.181",
-    "port": 8443,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "USA"
-  },
-  {
-    "proxy": "https://20.210.113.32:8123",
-    "protocol": "https",
-    "ip": "20.210.113.32",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Japan"
-  },
-  {
-    "proxy": "https://20.24.43.214:8123",
-    "protocol": "https",
-    "ip": "20.24.43.214",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
-  },
-  {
-    "proxy": "https://20.205.61.143:80",
-    "protocol": "https",
-    "ip": "20.205.61.143",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Hong Kong"
-  },
-  {
-    "proxy": "https://20.111.54.16:80",
-    "protocol": "https",
-    "ip": "20.111.54.16",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "France"
-  },
-  {
-    "proxy": "https://20.206.106.192:8123",
-    "protocol": "https",
-    "ip": "20.206.106.192",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Brazil"
-  },
-  {
-    "proxy": "https://20.210.113.32:80",
-    "protocol": "https",
-    "ip": "20.210.113.32",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Japan"
-  },
-  {
-    "proxy": "https://20.210.113.32:80",
-    "protocol": "https",
-    "ip": "20.210.113.32",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Japan"
-  },
-  {
-    "proxy": "https://20.111.54.16:8123",
-    "protocol": "https",
-    "ip": "20.111.54.16",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "France"
-  },
-  {
-    "proxy": "https://20.206.106.192:80",
-    "protocol": "https",
-    "ip": "20.206.106.192",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Brazil"
-  },
-  {
-    "proxy": "https://20.205.61.143:8123",
-    "protocol": "https",
-    "ip": "20.205.61.143",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Hong Kong"
-  },
-  {
-    "proxy": "https://20.24.43.214:8123",
-    "protocol": "https",
-    "ip": "20.24.43.214",
-    "port": 8123,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Singapure"
-  },
-  {
-    "proxy": "https://20.206.106.192:80",
-    "protocol": "https",
-    "ip": "20.206.106.192",
-    "port": 80,
-    "https": true,
-    "anonymity": "anonymous",
-    "geolocation": "Brazil"
+    "geolocation": ""
   }
 ]
