@@ -46,21 +46,5 @@
     "port": 15673,
     "anonymity": "anonymous",
     "geolocation": "South Korea"
-  },
-  {
-    "proxy": "https://184.168.121.153:37278",
-    "protocol": "SOCKS",
-    "ip": "184.168.121.153",
-    "port": 37278,
-    "anonymity": "anonymous",
-    "geolocation": "Singapore"
-  },
-  {
-    "proxy": "https://194.163.137.106:9050",
-    "protocol": "SOCKS",
-    "ip": "194.163.137.106",
-    "port": 9050,
-    "anonymity": "anonymous",
-    "geolocation": "Germany"
   }
 ]
